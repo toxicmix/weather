@@ -23,3 +23,5 @@ The search history will be displayed on the right side of the page. You can clic
 
 License
 This project is licensed under the MIT License.
+![image](https://github.com/toxicmix/weather/assets/72023909/c43a1d1c-2001-4575-9bfc-ef69ba34a72a)
+https://toxicmix.github.io/weather/
